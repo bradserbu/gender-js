@@ -1,6 +1,7 @@
 // hello.cc
 #include <string.h>
 #include <node.h>
+#include <cstdlib>
 
 extern "C" {
 	#include "gen_ext.h"

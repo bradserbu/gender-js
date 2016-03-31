@@ -1,14 +1,14 @@
 {
   "name": "gender-js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A node-ffi interface to gender-c.",
   "repository": {
     "type": "git",
     "url": "https://github.com/bradserbu/gender-js.git"
   },
+  "main": "gender",
   "scripts": {
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {}
 }

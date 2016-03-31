@@ -79,8 +79,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Build and distribution files
 dist/*.tar.gz
-
-# drone
-.secrets.drone.yml
+build
 
